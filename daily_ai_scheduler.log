@@ -1,0 +1,597 @@
+2026-01-28 17:55:25,376 - INFO - Daily AI Post Scheduler initialized
+2026-01-28 17:55:25,377 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-28 17:56:12,795 - INFO - Daily AI Post Scheduler initialized
+2026-01-28 17:56:12,795 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-28 17:56:12,795 - INFO - Running scheduled task once (on-demand)
+2026-01-28 17:56:12,795 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-28 17:56:12,796 - INFO - Task started at: 2026-01-28 17:56:12
+2026-01-28 17:56:12,796 - INFO - Handing over control to Claude Code (ccr code) for AI post generation
+2026-01-28 17:56:12,796 - INFO - Executing Claude Code command for AI post generation
+2026-01-28 17:56:12,831 - ERROR - Claude Code (ccr code) command not found. Please ensure Claude Code is installed and in PATH.
+2026-01-28 17:56:12,831 - INFO - Task completed at: 2026-01-28 17:56:12
+2026-01-28 17:56:12,831 - INFO - Task duration: 0:00:00.035295
+2026-01-28 17:56:55,381 - INFO - Daily AI Post Scheduler initialized
+2026-01-28 17:56:55,381 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-28 17:56:55,381 - INFO - Running scheduled task once (on-demand)
+2026-01-28 17:56:55,382 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-28 17:56:55,382 - INFO - Task started at: 2026-01-28 17:56:55
+2026-01-28 17:56:55,382 - INFO - Handing over control to Claude Code (ccr code) for AI post generation
+2026-01-28 17:56:55,382 - INFO - Executing Claude Code command for AI post generation
+2026-01-28 17:56:55,402 - ERROR - Claude Code (ccr code) command not found. Please ensure Claude Code is installed and in PATH.
+2026-01-28 17:56:55,402 - INFO - Task completed at: 2026-01-28 17:56:55
+2026-01-28 17:56:55,403 - INFO - Task duration: 0:00:00.020684
+2026-01-28 17:56:55,403 - ERROR - [ERROR] Daily AI post generation failed
+2026-01-28 18:04:22,614 - INFO - Daily AI Post Scheduler initialized
+2026-01-28 18:04:22,615 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-28 18:04:22,615 - INFO - Running scheduled task once (on-demand)
+2026-01-28 18:04:22,615 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-28 18:04:22,616 - INFO - Task started at: 2026-01-28 18:04:22
+2026-01-28 18:04:22,616 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-01-28 18:04:22,616 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-01-28 18:04:22,616 - INFO - Selected trending AI topic: Generative AI in Healthcare
+2026-01-28 18:04:22,617 - INFO - Successfully generated AI post: 2026-01-28_ai_trending_post.md
+2026-01-28 18:04:22,617 - INFO - Post file created successfully: Daily_AI_Posts\2026-01-28_ai_trending_post.md
+2026-01-28 18:04:22,618 - INFO - Post file size: 1990 bytes
+2026-01-28 18:04:22,618 - INFO - Task completed at: 2026-01-28 18:04:22
+2026-01-28 18:04:22,618 - INFO - Task duration: 0:00:00.002291
+2026-01-28 18:04:22,619 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-01-28 18:07:59,545 - INFO - Daily AI Post Scheduler initialized
+2026-01-28 18:07:59,546 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-28 18:07:59,546 - INFO - Running scheduled task once (on-demand)
+2026-01-28 18:07:59,546 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-28 18:07:59,547 - INFO - Task started at: 2026-01-28 18:07:59
+2026-01-28 18:07:59,547 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-01-28 18:07:59,547 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-01-28 18:07:59,547 - INFO - Selected trending AI topic: Large Language Model Optimization
+2026-01-28 18:07:59,549 - INFO - Successfully generated AI post: 2026-01-28_ai_trending_post.md
+2026-01-28 18:07:59,549 - INFO - Post file created successfully: Daily_AI_Posts\2026-01-28_ai_trending_post.md
+2026-01-28 18:07:59,550 - INFO - Post file size: 2038 bytes
+2026-01-28 18:07:59,550 - INFO - Task completed at: 2026-01-28 18:07:59
+2026-01-28 18:07:59,550 - INFO - Task duration: 0:00:00.003234
+2026-01-28 18:07:59,551 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-01-28 18:11:17,243 - INFO - Daily AI Post Scheduler initialized
+2026-01-28 18:11:17,244 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-28 18:11:17,245 - INFO - Running scheduled task once (on-demand)
+2026-01-28 18:11:17,245 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-28 18:11:17,246 - INFO - Task started at: 2026-01-28 18:11:17
+2026-01-28 18:11:17,247 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-01-28 18:11:17,249 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-01-28 18:11:17,251 - INFO - Selected trending AI topic: Enterprise AI Adoption Strategies
+2026-01-28 18:11:17,253 - INFO - Successfully generated AI post: 2026-01-28_ai_trending_post.md
+2026-01-28 18:11:17,254 - INFO - Post file created successfully: Daily_AI_Posts\2026-01-28_ai_trending_post.md
+2026-01-28 18:11:17,256 - INFO - Post file size: 2038 bytes
+2026-01-28 18:11:17,256 - INFO - Task completed at: 2026-01-28 18:11:17
+2026-01-28 18:11:17,256 - INFO - Task duration: 0:00:00.010146
+2026-01-28 18:11:17,257 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-01-29 03:56:44,801 - INFO - Daily AI Post Scheduler initialized
+2026-01-29 03:56:44,803 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 03:56:44,805 - INFO - Running scheduled task once (on-demand)
+2026-01-29 03:56:44,807 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-29 03:56:44,807 - INFO - Task started at: 2026-01-29 03:56:44
+2026-01-29 03:56:44,808 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-01-29 03:56:44,809 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-01-29 03:56:44,812 - INFO - Selected trending AI topic: Foundation Models Evolution
+2026-01-29 03:56:44,820 - INFO - Successfully generated AI post: 2026-01-29_ai_trending_post.md
+2026-01-29 03:56:44,822 - INFO - Post file created successfully: Daily_AI_Posts\2026-01-29_ai_trending_post.md
+2026-01-29 03:56:44,823 - INFO - Post file size: 1990 bytes
+2026-01-29 03:56:45,693 - INFO - Social Poster initialized
+2026-01-29 03:56:45,700 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 03:56:45,702 - INFO - Using image: mug.png
+2026-01-29 03:56:46,874 - INFO - Extracted title: Foundation Models Evolution: Latest Developments a...
+2026-01-29 03:56:47,093 - INFO - Extracted body: Foundation Models Evolution represents one of the most significant trends in artificial intelligence...
+2026-01-29 03:56:52,186 - ERROR - Error posting to social media: API request failed: 401 Client Error: Unauthorized for url: https://api.upload-post.com/api/upload_photos
+2026-01-29 03:56:52,191 - ERROR - Failed to post 2026-01-29_ai_trending_post.md to social media: API request failed: 401 Client Error: Unauthorized for url: https://api.upload-post.com/api/upload_photos
+2026-01-29 03:56:52,193 - INFO - Task completed at: 2026-01-29 03:56:52
+2026-01-29 03:56:52,193 - INFO - Task duration: 0:00:07.385476
+2026-01-29 03:56:52,195 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-01-29 03:59:20,853 - INFO - Daily AI Post Scheduler initialized
+2026-01-29 03:59:20,854 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 03:59:20,854 - INFO - Social Poster initialized
+2026-01-29 03:59:20,855 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 03:59:20,855 - INFO - Using image: mug.png
+2026-01-29 03:59:20,856 - INFO - Combined Scheduler initialized
+2026-01-29 03:59:20,856 - INFO - Posts directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 03:59:20,856 - INFO - Image path: mug.png
+2026-01-29 04:01:15,056 - INFO - Daily AI Post Scheduler initialized
+2026-01-29 04:01:15,057 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:01:15,058 - INFO - Social Poster initialized
+2026-01-29 04:01:15,058 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:01:15,058 - INFO - Using image: mug.png
+2026-01-29 04:01:15,059 - INFO - Combined Scheduler initialized
+2026-01-29 04:01:15,059 - INFO - Posts directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:01:15,059 - INFO - Image path: mug.png
+2026-01-29 04:01:15,060 - INFO - Daily AI Post Scheduler initialized
+2026-01-29 04:01:15,060 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:01:15,060 - INFO - Social Poster initialized
+2026-01-29 04:01:15,061 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:01:15,061 - INFO - Using image: mug.png
+2026-01-29 04:01:15,061 - INFO - Running scheduled task once (on-demand)
+2026-01-29 04:01:15,061 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-29 04:01:15,061 - INFO - Task started at: 2026-01-29 04:01:15
+2026-01-29 04:01:15,061 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-01-29 04:01:15,062 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-01-29 04:01:15,062 - INFO - Selected trending AI topic: AI Ethics and Responsible Development
+2026-01-29 04:01:15,063 - INFO - Successfully generated AI post: 2026-01-29_ai_trending_post.md
+2026-01-29 04:01:15,063 - INFO - Post file created successfully: Daily_AI_Posts\2026-01-29_ai_trending_post.md
+2026-01-29 04:01:15,064 - INFO - Post file size: 2070 bytes
+2026-01-29 04:01:15,064 - INFO - Social Poster initialized
+2026-01-29 04:01:15,065 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:01:15,065 - INFO - Using image: mug.png
+2026-01-29 04:01:15,140 - INFO - Extracted title: AI Ethics and Responsible Development: Latest Deve...
+2026-01-29 04:01:15,140 - INFO - Extracted body: AI Ethics and Responsible Development represents one of the most significant trends in artificial in...
+2026-01-29 04:01:20,360 - ERROR - Error posting to social media: API request failed: 401 Client Error: Unauthorized for url: https://api.upload-post.com/api/upload_photos
+2026-01-29 04:01:20,363 - ERROR - Failed to post 2026-01-29_ai_trending_post.md to social media: API request failed: 401 Client Error: Unauthorized for url: https://api.upload-post.com/api/upload_photos
+2026-01-29 04:01:20,364 - INFO - Task completed at: 2026-01-29 04:01:20
+2026-01-29 04:01:20,364 - INFO - Task duration: 0:00:05.302460
+2026-01-29 04:01:20,364 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-01-29 04:01:20,367 - INFO - Extracted title: AI Ethics and Responsible Development: Latest Deve...
+2026-01-29 04:01:20,367 - INFO - Extracted body: AI Ethics and Responsible Development represents one of the most significant trends in artificial in...
+2026-01-29 04:08:27,121 - INFO - Daily AI Post Scheduler initialized
+2026-01-29 04:08:27,123 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:08:27,123 - INFO - Running scheduled task once (on-demand)
+2026-01-29 04:08:27,124 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-29 04:08:27,125 - INFO - Task started at: 2026-01-29 04:08:27
+2026-01-29 04:08:27,126 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-01-29 04:08:27,127 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-01-29 04:08:27,129 - INFO - Selected trending AI topic: Generative AI in Healthcare
+2026-01-29 04:08:27,131 - INFO - Successfully generated AI post: 2026-01-29_ai_trending_post.md
+2026-01-29 04:08:27,132 - INFO - Post file created successfully: Daily_AI_Posts\2026-01-29_ai_trending_post.md
+2026-01-29 04:08:27,132 - INFO - Post file size: 1990 bytes
+2026-01-29 04:08:27,664 - INFO - Social Poster initialized
+2026-01-29 04:08:27,665 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:08:27,665 - INFO - Using image: mug.png
+2026-01-29 04:08:27,816 - INFO - Extracted title: Generative AI in Healthcare: Latest Developments a...
+2026-01-29 04:08:27,817 - INFO - Extracted body: Generative AI in Healthcare represents one of the most significant trends in artificial intelligence...
+2026-01-29 04:08:30,868 - ERROR - Error posting to social media: API request failed: 401 Client Error: Unauthorized for url: https://api.upload-post.com/api/upload_photos
+2026-01-29 04:08:30,873 - ERROR - Failed to post 2026-01-29_ai_trending_post.md to social media: API request failed: 401 Client Error: Unauthorized for url: https://api.upload-post.com/api/upload_photos
+2026-01-29 04:08:30,873 - INFO - Task completed at: 2026-01-29 04:08:30
+2026-01-29 04:08:30,874 - INFO - Task duration: 0:00:03.748255
+2026-01-29 04:08:30,874 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-01-29 04:10:53,745 - INFO - Daily AI Post Scheduler initialized
+2026-01-29 04:10:53,747 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:10:53,748 - INFO - Running scheduled task once (on-demand)
+2026-01-29 04:10:53,749 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-01-29 04:10:53,749 - INFO - Task started at: 2026-01-29 04:10:53
+2026-01-29 04:10:53,749 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-01-29 04:10:53,750 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-01-29 04:10:53,750 - INFO - Selected trending AI topic: Neural Network Architecture Innovations
+2026-01-29 04:10:53,755 - INFO - Successfully generated AI post: 2026-01-29_ai_trending_post.md
+2026-01-29 04:10:53,760 - INFO - Post file created successfully: Daily_AI_Posts\2026-01-29_ai_trending_post.md
+2026-01-29 04:10:53,760 - INFO - Post file size: 2086 bytes
+2026-01-29 04:10:54,373 - INFO - Social Poster initialized
+2026-01-29 04:10:54,374 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0\Daily_AI_Posts
+2026-01-29 04:10:54,374 - INFO - Using image: mug.png
+2026-01-29 04:10:54,417 - INFO - Extracted title: Neural Network Architecture Innovations: Latest De...
+2026-01-29 04:10:54,418 - INFO - Extracted body: Neural Network Architecture Innovations represents one of the most significant trends in artificial ...
+2026-01-29 04:11:00,970 - INFO - Upload successful: {'success': True, 'results': {'instagram': {'success': False, 'error': 'Error validating access token: The session has been invalidated because the user changed their password or Facebook has changed the session for security reasons. Please reconnect your Instagram account at https://app.upload-post.com/manage-users. Learn more: https://docs.upload-post.com/resources/common-errors#session-expired.', 'photos_were_processed': None, 'changes_per_image': [[]]}, 'linkedin': {'success': True, 'image_urns': ['urn:li:image:D4D10AQH-ZGVAtsv9gw'], 'post_id': 'urn:li:share:7422415928317030400', 'url': 'https://www.linkedin.com/feed/update/urn:li:share:7422415928317030400/', 'photos_were_processed': None, 'changes_per_image': [[]]}, 'x': {'success': True, 'post_id': '2016650234940493944', 'url': 'https://x.com/ahsanadil01/status/2016650234940493944', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 9, 'limit': 10, 'last_reset': '2026-01-22T21:03:40.301868'}}
+2026-01-29 04:11:00,976 - INFO - Successfully posted 2026-01-29_ai_trending_post.md to social media
+2026-01-29 04:11:00,978 - INFO - Task completed at: 2026-01-29 04:11:00
+2026-01-29 04:11:00,979 - INFO - Task duration: 0:00:07.229277
+2026-01-29 04:11:00,980 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 01:09:46,008 - INFO - Daily AI Post Scheduler initialized
+2026-02-04 01:09:46,009 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 01:09:46,009 - INFO - Starting 24-hour AI post scheduler
+2026-02-04 01:09:46,009 - INFO - Scheduler will run every 24 hours
+2026-02-04 01:09:46,010 - INFO - Running initial task...
+2026-02-04 01:09:46,010 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-04 01:09:46,010 - INFO - Task started at: 2026-02-04 01:09:46
+2026-02-04 01:09:46,011 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-04 01:09:46,011 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-04 01:09:46,011 - INFO - Selected trending AI topic: AI Safety and Alignment Research
+2026-02-04 01:09:46,013 - INFO - Successfully generated AI post: 2026-02-04_ai_trending_post.md
+2026-02-04 01:09:46,013 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-04_ai_trending_post.md
+2026-02-04 01:09:46,014 - INFO - Post file size: 2030 bytes
+2026-02-04 01:09:46,488 - INFO - Social Poster initialized
+2026-02-04 01:09:46,488 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 01:09:46,489 - INFO - Using image: mug.png
+2026-02-04 01:09:46,533 - INFO - Extracted title: AI Safety and Alignment Research: Latest Developme...
+2026-02-04 01:09:46,535 - INFO - Extracted body: AI Safety and Alignment Research represents one of the most significant trends in artificial intelli...
+2026-02-04 01:09:53,241 - ERROR - Error posting to social media: API request failed: 400 Client Error: Bad Request for url: https://api.upload-post.com/api/upload_photos
+2026-02-04 01:09:53,246 - ERROR - Failed to post 2026-02-04_ai_trending_post.md to social media: API request failed: 400 Client Error: Bad Request for url: https://api.upload-post.com/api/upload_photos
+2026-02-04 01:09:53,247 - INFO - Task completed at: 2026-02-04 01:09:53
+2026-02-04 01:09:53,248 - INFO - Task duration: 0:00:07.236689
+2026-02-04 01:09:53,250 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 01:09:53,251 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-04 01:11:52,046 - INFO - Scheduler stopped by user
+2026-02-04 01:12:04,782 - INFO - Daily AI Post Scheduler initialized
+2026-02-04 01:12:04,783 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 01:12:04,784 - INFO - Starting 24-hour AI post scheduler
+2026-02-04 01:12:04,784 - INFO - Scheduler will run every 24 hours
+2026-02-04 01:12:04,784 - INFO - Running initial task...
+2026-02-04 01:12:04,785 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-04 01:12:04,785 - INFO - Task started at: 2026-02-04 01:12:04
+2026-02-04 01:12:04,785 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-04 01:12:04,786 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-04 01:12:04,786 - INFO - Selected trending AI topic: Large Language Model Optimization
+2026-02-04 01:12:04,787 - INFO - Successfully generated AI post: 2026-02-04_ai_trending_post.md
+2026-02-04 01:12:04,788 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-04_ai_trending_post.md
+2026-02-04 01:12:04,788 - INFO - Post file size: 2038 bytes
+2026-02-04 01:12:05,136 - INFO - Social Poster initialized
+2026-02-04 01:12:05,137 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 01:12:05,137 - INFO - Using image: mug.png
+2026-02-04 01:12:05,167 - INFO - Extracted title: Large Language Model Optimization: Latest Developm...
+2026-02-04 01:12:05,167 - INFO - Extracted body: Large Language Model Optimization represents one of the most significant trends in artificial intell...
+2026-02-04 01:12:09,454 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2018779558841925821', 'url': 'https://x.com/ahsanadil01/status/2018779558841925821', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 1, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}}
+2026-02-04 01:12:09,460 - INFO - Successfully posted 2026-02-04_ai_trending_post.md to social media
+2026-02-04 01:12:09,465 - INFO - Task completed at: 2026-02-04 01:12:09
+2026-02-04 01:12:09,467 - INFO - Task duration: 0:00:04.679287
+2026-02-04 01:12:09,468 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 01:12:09,470 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-04 01:12:53,051 - INFO - Scheduler stopped by user
+2026-02-04 02:36:50,094 - INFO - Daily AI Post Scheduler initialized
+2026-02-04 02:36:50,096 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 02:36:50,096 - INFO - Starting 24-hour AI post scheduler
+2026-02-04 02:36:50,096 - INFO - Scheduler will run every 24 hours
+2026-02-04 02:36:50,096 - INFO - Running initial task...
+2026-02-04 02:36:50,097 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-04 02:36:50,097 - INFO - Task started at: 2026-02-04 02:36:50
+2026-02-04 02:36:50,097 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-04 02:36:50,097 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-04 02:36:50,098 - INFO - Selected trending AI topic: Generative AI in Healthcare
+2026-02-04 02:36:50,100 - INFO - Successfully generated AI post: 2026-02-04_ai_trending_post.md
+2026-02-04 02:36:50,100 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-04_ai_trending_post.md
+2026-02-04 02:36:50,100 - INFO - Post file size: 1990 bytes
+2026-02-04 02:36:50,991 - INFO - Social Poster initialized
+2026-02-04 02:36:50,991 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 02:36:50,992 - INFO - Using image: mug.png
+2026-02-04 02:36:51,034 - INFO - Extracted title: Generative AI in Healthcare: Latest Developments a...
+2026-02-04 02:36:51,035 - INFO - Extracted body: Generative AI in Healthcare represents one of the most significant trends in artificial intelligence...
+2026-02-04 02:37:05,870 - INFO - Upload successful: {'success': True, 'results': {'instagram': {'success': True, 'post_id': '18120768415585238', 'url': 'https://www.instagram.com/p/DUT6OzlDB5Z/', 'media_type': 'IMAGE', 'photos_were_processed': None, 'changes_per_image': [[]]}, 'linkedin': {'success': True, 'image_urns': ['urn:li:image:D4D10AQG7o28LMF1aEw'], 'post_id': 'urn:li:share:7424566596255453184', 'url': 'https://www.linkedin.com/feed/update/urn:li:share:7424566596255453184/', 'photos_were_processed': None, 'changes_per_image': [[]]}, 'x': {'success': True, 'post_id': '2018800902325289209', 'url': 'https://x.com/ahsanadil01/status/2018800902325289209', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 4, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}, 'warnings': [{'platform': 'x', 'type': 'duplicate_or_similar', 'message': 'Your post appears duplicate or very similar to one you posted in the last 48 hours. Consider changing the title or caption to make it unique.'}]}
+2026-02-04 02:37:05,877 - INFO - Successfully posted 2026-02-04_ai_trending_post.md to social media
+2026-02-04 02:37:05,880 - INFO - Task completed at: 2026-02-04 02:37:05
+2026-02-04 02:37:05,881 - INFO - Task duration: 0:00:15.782946
+2026-02-04 02:37:05,881 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 02:37:05,881 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-04 02:50:49,684 - INFO - Daily AI Post Scheduler initialized
+2026-02-04 02:50:49,685 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 02:50:49,685 - INFO - Starting 24-hour AI post scheduler
+2026-02-04 02:50:49,685 - INFO - Scheduler will run every 24 hours
+2026-02-04 02:50:49,685 - INFO - Running initial task...
+2026-02-04 02:50:49,686 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-04 02:50:49,686 - INFO - Task started at: 2026-02-04 02:50:49
+2026-02-04 02:50:49,686 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-04 02:50:49,686 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-04 02:50:49,686 - INFO - Selected trending AI topic: Large Language Model Optimization
+2026-02-04 02:50:49,689 - INFO - Successfully generated AI post: 2026-02-04_ai_trending_post.md
+2026-02-04 02:50:49,692 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-04_ai_trending_post.md
+2026-02-04 02:50:49,692 - INFO - Post file size: 2038 bytes
+2026-02-04 02:50:50,260 - INFO - Social Poster initialized
+2026-02-04 02:50:50,260 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 02:50:50,261 - INFO - Using image: mug.png
+2026-02-04 02:50:50,558 - INFO - Extracted title: Large Language Model Optimization: Latest Developm...
+2026-02-04 02:50:50,559 - INFO - Extracted body: Large Language Model Optimization represents one of the most significant trends in artificial intell...
+2026-02-04 02:50:59,941 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2018804433425944694', 'url': 'https://x.com/ahsanadil01/status/2018804433425944694', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 5, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}, 'warnings': [{'platform': 'x', 'type': 'duplicate_or_similar', 'message': 'Your post appears duplicate or very similar to one you posted in the last 48 hours. Consider changing the title or caption to make it unique.'}]}
+2026-02-04 02:50:59,953 - INFO - Successfully posted 2026-02-04_ai_trending_post.md to social media
+2026-02-04 02:50:59,956 - INFO - Task completed at: 2026-02-04 02:50:59
+2026-02-04 02:50:59,957 - INFO - Task duration: 0:00:10.270173
+2026-02-04 02:50:59,957 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 02:50:59,957 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-04 03:13:36,067 - INFO - Running in manual mode...
+2026-02-04 03:13:36,068 - INFO - Generating and posting AI content now...
+2026-02-04 03:13:36,068 - INFO - Posting to platforms: Facebook, Instagram, Twitter, LinkedIn
+2026-02-04 03:13:36,069 - INFO - Content: Did you know? Artificial Intelligence is revolutionizing industries worldwide.
+2026-02-04 03:13:37,071 - INFO - Successfully posted to all platforms!
+2026-02-04 03:13:37,083 - INFO - Post generated and published successfully!
+2026-02-04 03:15:41,402 - INFO - Running in manual mode...
+2026-02-04 03:15:41,403 - INFO - Generating and posting AI content now...
+2026-02-04 03:15:41,403 - INFO - Posting to platforms: LinkedIn, Facebook, Instagram
+2026-02-04 03:15:41,403 - INFO - Content: Exciting developments in Digital Transformation! The future is looking bright.
+2026-02-04 03:15:42,421 - INFO - Successfully posted to all platforms!
+2026-02-04 03:15:42,890 - INFO - Post generated and published successfully!
+2026-02-04 03:30:46,522 - INFO - Running in manual mode...
+2026-02-04 03:30:46,524 - INFO - Generating and posting AI content now...
+2026-02-04 03:30:46,524 - INFO - Posting to platforms: LinkedIn, Instagram
+2026-02-04 03:30:46,524 - INFO - Content: Did you know? Data Science is revolutionizing industries worldwide.
+2026-02-04 03:30:47,527 - INFO - Successfully posted to all platforms!
+2026-02-04 03:30:47,747 - INFO - Post generated and published successfully!
+2026-02-04 03:34:32,131 - INFO - Running in manual mode...
+2026-02-04 03:34:32,132 - INFO - Generating and posting AI content now...
+2026-02-04 03:34:32,133 - INFO - Posting to platforms: Instagram, Twitter, LinkedIn
+2026-02-04 03:34:32,133 - INFO - Content: Innovative approaches to Innovation are creating new opportunities.
+2026-02-04 03:34:33,134 - INFO - Successfully posted to all platforms!
+2026-02-04 03:34:33,244 - INFO - Post generated and published successfully!
+2026-02-04 07:37:01,152 - INFO - Running in manual mode...
+2026-02-04 07:37:01,154 - INFO - Generating and posting AI content now...
+2026-02-04 07:37:01,154 - INFO - Posting to platforms: Twitter, Instagram, LinkedIn, Facebook
+2026-02-04 07:37:01,154 - INFO - Content: The latest trends in Digital Transformation are changing everything. Stay ahead!
+2026-02-04 07:37:02,155 - INFO - Successfully posted to all platforms!
+2026-02-04 07:37:02,300 - INFO - Post generated and published successfully!
+2026-02-04 07:37:50,152 - INFO - Running in manual mode...
+2026-02-04 07:37:50,153 - INFO - Generating and posting AI content now...
+2026-02-04 07:37:50,154 - INFO - Posting to platforms: Twitter, Facebook
+2026-02-04 07:37:50,154 - INFO - Content: Exciting developments in Innovation! The future is looking bright.
+2026-02-04 07:37:51,155 - INFO - Successfully posted to all platforms!
+2026-02-04 07:37:51,206 - INFO - Post generated and published successfully!
+2026-02-04 07:38:19,461 - INFO - Running in manual mode...
+2026-02-04 07:38:19,461 - INFO - Generating and posting AI content now...
+2026-02-04 07:38:19,473 - INFO - Posting to platforms: Instagram, Twitter, LinkedIn, Facebook
+2026-02-04 07:38:19,475 - INFO - Content: Innovative approaches to Machine Learning are creating new opportunities.
+2026-02-04 07:38:20,476 - INFO - Successfully posted to all platforms!
+2026-02-04 07:38:20,640 - INFO - Post generated and published successfully!
+2026-02-04 07:39:24,392 - INFO - Running in manual mode...
+2026-02-04 07:39:24,393 - INFO - Generating and posting AI content now...
+2026-02-04 07:39:24,393 - INFO - Posting to platforms: LinkedIn, Instagram, Facebook, Twitter
+2026-02-04 07:39:24,394 - INFO - Content: Innovative approaches to Technology Trends are creating new opportunities.
+2026-02-04 07:39:25,397 - INFO - Successfully posted to all platforms!
+2026-02-04 07:39:25,442 - INFO - Post generated and published successfully!
+2026-02-04 07:41:12,934 - INFO - Running in manual mode...
+2026-02-04 07:41:12,936 - INFO - Generating and posting AI content now...
+2026-02-04 07:41:12,936 - INFO - Posting to platforms: LinkedIn, Facebook
+2026-02-04 07:41:12,937 - INFO - Content: Exciting developments in Machine Learning! The future is looking bright.
+2026-02-04 07:41:13,938 - INFO - Successfully posted to all platforms!
+2026-02-04 07:41:13,947 - INFO - Post generated and published successfully!
+2026-02-04 07:46:18,410 - INFO - Running in manual mode...
+2026-02-04 07:46:18,412 - INFO - Generating and posting AI content now...
+2026-02-04 07:46:18,414 - INFO - Posting to platforms: LinkedIn, Facebook, Twitter
+2026-02-04 07:46:18,415 - INFO - Content: The latest trends in Innovation are changing everything. Stay ahead!
+2026-02-04 07:46:19,415 - INFO - Successfully posted to all platforms!
+2026-02-04 07:46:19,432 - INFO - Post generated and published successfully!
+2026-02-04 07:48:11,887 - INFO - Running in manual mode...
+2026-02-04 07:48:11,887 - INFO - Generating and posting AI content now...
+2026-02-04 07:48:11,888 - INFO - Posting to platforms: Twitter, LinkedIn, Facebook
+2026-02-04 07:48:11,888 - INFO - Content: Why Technology Trends matters for businesses in 2024 and beyond.
+2026-02-04 07:48:12,891 - INFO - Successfully posted to all platforms!
+2026-02-04 07:48:12,903 - INFO - Post generated and published successfully!
+2026-02-04 07:48:13,258 - INFO - Running in manual mode...
+2026-02-04 07:48:13,549 - INFO - Generating and posting AI content now...
+2026-02-04 07:48:13,550 - INFO - Posting to platforms: Facebook, LinkedIn, Twitter
+2026-02-04 07:48:13,550 - INFO - Content: Why Digital Transformation matters for businesses in 2024 and beyond.
+2026-02-04 07:48:14,551 - INFO - Successfully posted to all platforms!
+2026-02-04 07:48:14,618 - INFO - Post generated and published successfully!
+2026-02-04 07:49:37,785 - INFO - Running in manual mode...
+2026-02-04 07:49:37,786 - INFO - Generating and posting AI content now...
+2026-02-04 07:49:37,786 - INFO - Posting to platforms: LinkedIn, Instagram, Facebook, Twitter
+2026-02-04 07:49:37,786 - INFO - Content: The latest trends in Machine Learning are changing everything. Stay ahead!
+2026-02-04 07:49:38,804 - INFO - Successfully posted to all platforms!
+2026-02-04 07:49:39,087 - INFO - Post generated and published successfully!
+2026-02-04 07:52:49,434 - INFO - Running in manual mode...
+2026-02-04 07:52:49,435 - INFO - Generating and posting AI content now...
+2026-02-04 07:52:49,436 - INFO - Posting to platforms: Instagram, Facebook, Twitter, LinkedIn
+2026-02-04 07:52:49,436 - INFO - Content: Why Data Science matters for businesses in 2024 and beyond.
+2026-02-04 07:52:50,442 - INFO - Successfully posted to all platforms!
+2026-02-04 07:52:50,455 - INFO - Post generated and published successfully!
+2026-02-04 07:54:02,232 - INFO - Running in automatic mode (24-hour cycle)...
+2026-02-04 07:54:02,233 - INFO - Starting continuous AI scheduler...
+2026-02-04 07:54:02,233 - INFO - Generating and posting AI content now...
+2026-02-04 07:54:02,233 - INFO - Posting to platforms: Facebook, Twitter, LinkedIn
+2026-02-04 07:54:02,234 - INFO - Content: The latest trends in Technology Trends are changing everything. Stay ahead!
+2026-02-04 07:54:03,234 - INFO - Successfully posted to all platforms!
+2026-02-04 07:54:03,317 - INFO - Post generated and published successfully!
+2026-02-04 07:54:03,317 - INFO - Next post scheduled in 24 hours...
+2026-02-04 07:54:07,148 - INFO - Running in manual mode...
+2026-02-04 07:54:07,154 - INFO - Generating and posting AI content now...
+2026-02-04 07:54:07,156 - INFO - Posting to platforms: Instagram, Facebook, Twitter
+2026-02-04 07:54:07,160 - INFO - Content: Innovative approaches to Digital Transformation are creating new opportunities.
+2026-02-04 07:54:08,161 - INFO - Successfully posted to all platforms!
+2026-02-04 07:54:08,225 - INFO - Post generated and published successfully!
+2026-02-04 07:54:59,622 - INFO - Running in manual mode...
+2026-02-04 07:54:59,625 - INFO - Generating and posting AI content now...
+2026-02-04 07:54:59,626 - INFO - Posting to platforms: Facebook, Twitter, Instagram
+2026-02-04 07:54:59,626 - INFO - Content: Why Innovation matters for businesses in 2024 and beyond.
+2026-02-04 07:55:00,634 - INFO - Successfully posted to all platforms!
+2026-02-04 07:55:00,750 - INFO - Post generated and published successfully!
+2026-02-04 07:56:33,579 - INFO - Running in manual mode...
+2026-02-04 07:56:33,580 - INFO - Generating and posting AI content now...
+2026-02-04 07:56:33,580 - INFO - Posting to platforms: Twitter, Instagram, Facebook, LinkedIn
+2026-02-04 07:56:33,581 - INFO - Content: Exciting developments in Machine Learning! The future is looking bright.
+2026-02-04 07:56:34,582 - INFO - Successfully posted to all platforms!
+2026-02-04 07:56:34,671 - INFO - Post generated and published successfully!
+2026-02-04 07:59:40,066 - INFO - Running in manual mode...
+2026-02-04 07:59:40,069 - INFO - Generating and posting AI content now...
+2026-02-04 07:59:40,070 - INFO - Posting to platforms: Twitter, Instagram, LinkedIn
+2026-02-04 07:59:40,070 - INFO - Content: Did you know? Machine Learning is revolutionizing industries worldwide.
+2026-02-04 07:59:41,071 - INFO - Successfully posted to all platforms!
+2026-02-04 07:59:41,129 - INFO - Post generated and published successfully!
+2026-02-04 08:00:42,323 - INFO - Running in automatic mode (24-hour cycle)...
+2026-02-04 08:00:42,324 - INFO - Starting continuous AI scheduler...
+2026-02-04 08:00:42,325 - INFO - Generating and posting AI content now...
+2026-02-04 08:00:42,325 - INFO - Posting to platforms: Instagram, Facebook, LinkedIn, Twitter
+2026-02-04 08:00:42,325 - INFO - Content: Why Technology Trends matters for businesses in 2024 and beyond.
+2026-02-04 08:00:43,326 - INFO - Successfully posted to all platforms!
+2026-02-04 08:00:43,398 - INFO - Post generated and published successfully!
+2026-02-04 08:00:43,398 - INFO - Next post scheduled in 24 hours...
+2026-02-04 08:08:24,311 - INFO - Running in manual mode...
+2026-02-04 08:08:24,312 - INFO - Generating and posting AI content now...
+2026-02-04 08:08:24,313 - INFO - Posting to platforms: Instagram, Facebook, Twitter, LinkedIn
+2026-02-04 08:08:24,313 - INFO - Content: The latest trends in Artificial Intelligence are changing everything. Stay ahead!
+2026-02-04 08:08:25,313 - INFO - Successfully posted to all platforms!
+2026-02-04 08:08:25,570 - INFO - Post generated and published successfully!
+2026-02-04 08:11:55,415 - INFO - Running in manual mode...
+2026-02-04 08:11:55,417 - INFO - Generating and posting AI content now...
+2026-02-04 08:11:55,417 - INFO - Posting to platforms: Facebook, LinkedIn
+2026-02-04 08:11:55,417 - INFO - Content: The latest trends in Technology Trends are changing everything. Stay ahead!
+2026-02-04 08:11:56,426 - INFO - Successfully posted to all platforms!
+2026-02-04 08:11:57,189 - INFO - Post generated and published successfully!
+2026-02-04 08:14:23,143 - INFO - Running in automatic mode (24-hour cycle)...
+2026-02-04 08:14:23,144 - INFO - Starting continuous AI scheduler...
+2026-02-04 08:14:23,144 - INFO - Generating and posting AI content now...
+2026-02-04 08:14:23,144 - INFO - Posting to platforms: Facebook, Twitter, LinkedIn, Instagram
+2026-02-04 08:14:23,145 - INFO - Content: Exciting developments in Machine Learning! The future is looking bright.
+2026-02-04 08:14:24,145 - INFO - Successfully posted to all platforms!
+2026-02-04 08:14:24,253 - INFO - Post generated and published successfully!
+2026-02-04 08:14:24,254 - INFO - Next post scheduled in 24 hours...
+2026-02-04 08:17:25,480 - INFO - Running in manual mode...
+2026-02-04 08:17:25,482 - INFO - Generating and posting AI content now...
+2026-02-04 08:17:25,482 - INFO - Posting to platforms: Instagram, LinkedIn
+2026-02-04 08:17:25,482 - INFO - Content: Did you know? Data Science is revolutionizing industries worldwide.
+2026-02-04 08:17:26,487 - INFO - Successfully posted to all platforms!
+2026-02-04 08:17:28,351 - INFO - Post generated and published successfully!
+2026-02-04 08:27:47,921 - INFO - Running in automatic mode (24-hour cycle)...
+2026-02-04 08:27:47,923 - INFO - Starting continuous AI scheduler...
+2026-02-04 08:27:47,923 - INFO - Generating and posting AI content now...
+2026-02-04 08:27:47,923 - INFO - Posting to platforms: Twitter, Facebook, LinkedIn
+2026-02-04 08:27:47,924 - INFO - Content: Exciting developments in Data Science! The future is looking bright.
+2026-02-04 08:27:48,925 - INFO - Successfully posted to all platforms!
+2026-02-04 08:27:49,082 - INFO - Post generated and published successfully!
+2026-02-04 08:27:49,082 - INFO - Next post scheduled in 24 hours...
+2026-02-04 08:36:36,209 - INFO - Running in manual mode...
+2026-02-04 08:36:36,210 - INFO - Generating and posting AI content now...
+2026-02-04 08:36:36,211 - INFO - Posting to platforms: LinkedIn, Facebook, Twitter
+2026-02-04 08:36:36,211 - INFO - Content: Innovative approaches to Technology Trends are creating new opportunities.
+2026-02-04 08:36:37,211 - INFO - Successfully posted to all platforms!
+2026-02-04 08:36:37,275 - INFO - Post generated and published successfully!
+2026-02-04 08:43:49,186 - INFO - Running in manual mode...
+2026-02-04 08:43:49,996 - INFO - Generating and posting AI content now...
+2026-02-04 08:43:49,996 - INFO - Posting to platforms: Facebook, Twitter, Instagram
+2026-02-04 08:43:49,997 - INFO - Content: Exciting developments in Artificial Intelligence! The future is looking bright.
+2026-02-04 08:43:50,997 - INFO - Successfully posted to all platforms!
+2026-02-04 08:43:51,134 - INFO - Post generated and published successfully!
+2026-02-04 08:47:11,948 - INFO - Running in automatic mode (24-hour cycle)...
+2026-02-04 08:47:11,949 - INFO - Starting continuous AI scheduler...
+2026-02-04 08:47:11,950 - INFO - Generating and posting AI content now...
+2026-02-04 08:47:11,950 - INFO - Posting to platforms: LinkedIn, Instagram, Twitter, Facebook
+2026-02-04 08:47:11,951 - INFO - Content: Why Artificial Intelligence matters for businesses in 2024 and beyond.
+2026-02-04 08:47:12,952 - INFO - Successfully posted to all platforms!
+2026-02-04 08:47:13,136 - INFO - Post generated and published successfully!
+2026-02-04 08:47:13,137 - INFO - Next post scheduled in 24 hours...
+2026-02-04 08:47:36,773 - INFO - Scheduler interrupted by user
+2026-02-04 08:54:45,282 - INFO - Running in manual mode...
+2026-02-04 08:54:45,284 - INFO - Scheduler started
+2026-02-04 08:54:45,285 - INFO - Generating AI post now...
+2026-02-04 08:54:45,285 - ERROR - ERROR: OPENAI_API_KEY environment variable not set
+2026-02-04 08:54:45,285 - ERROR - Critical error in generate_and_post_now: ERROR: OPENAI_API_KEY environment variable not set
+2026-02-04 08:58:30,783 - INFO - Daily AI Post Scheduler initialized
+2026-02-04 08:58:30,795 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 08:58:30,797 - INFO - Starting 24-hour AI post scheduler
+2026-02-04 08:58:30,800 - INFO - Scheduler will run every 24 hours
+2026-02-04 08:58:30,801 - INFO - Running initial task...
+2026-02-04 08:58:30,802 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-04 08:58:30,804 - INFO - Task started at: 2026-02-04 08:58:30
+2026-02-04 08:58:30,807 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-04 08:58:30,810 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-04 08:58:30,812 - INFO - Selected trending AI topic: AI in Scientific Discovery
+2026-02-04 08:58:30,817 - INFO - Successfully generated AI post: 2026-02-04_ai_trending_post.md
+2026-02-04 08:58:30,818 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-04_ai_trending_post.md
+2026-02-04 08:58:30,820 - INFO - Post file size: 1982 bytes
+2026-02-04 08:58:31,694 - INFO - Social Poster initialized
+2026-02-04 08:58:31,697 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 08:58:31,703 - INFO - Using image: mug.png
+2026-02-04 08:58:32,396 - INFO - Extracted title: AI in Scientific Discovery: Latest Developments an...
+2026-02-04 08:58:32,404 - INFO - Extracted body: AI in Scientific Discovery represents one of the most significant trends in artificial intelligence ...
+2026-02-04 08:58:40,383 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2018896961684775365', 'url': 'https://x.com/ahsanadil01/status/2018896961684775365', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 6, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}, 'warnings': [{'platform': 'x', 'type': 'duplicate_or_similar', 'message': 'Your post appears duplicate or very similar to one you posted in the last 48 hours. Consider changing the title or caption to make it unique.'}]}
+2026-02-04 08:58:40,389 - INFO - Successfully posted 2026-02-04_ai_trending_post.md to social media
+2026-02-04 08:58:40,392 - INFO - Task completed at: 2026-02-04 08:58:40
+2026-02-04 08:58:40,400 - INFO - Task duration: 0:00:09.589087
+2026-02-04 08:58:40,402 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 08:58:40,403 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-04 08:59:53,178 - INFO - Scheduler stopped by user
+2026-02-04 09:15:08,418 - INFO - Daily AI Post Scheduler initialized
+2026-02-04 09:15:08,424 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 09:15:08,425 - INFO - Running scheduled task once (on-demand)
+2026-02-04 09:15:08,425 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-04 09:15:08,425 - INFO - Task started at: 2026-02-04 09:15:08
+2026-02-04 09:15:08,425 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-04 09:15:08,426 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-04 09:15:08,426 - INFO - Selected trending AI topic: Foundation Models Evolution
+2026-02-04 09:15:08,428 - INFO - Successfully generated AI post: 2026-02-04_ai_trending_post.md
+2026-02-04 09:15:08,428 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-04_ai_trending_post.md
+2026-02-04 09:15:08,428 - INFO - Post file size: 1990 bytes
+2026-02-04 09:15:09,045 - INFO - Social Poster initialized
+2026-02-04 09:15:09,046 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 09:15:09,046 - INFO - Using image: mug.png
+2026-02-04 09:15:09,227 - INFO - Extracted title: Foundation Models Evolution: Latest Developments a...
+2026-02-04 09:15:09,227 - INFO - Extracted body: Foundation Models Evolution represents one of the most significant trends in artificial intelligence...
+2026-02-04 09:15:16,957 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2018901141598183805', 'url': 'https://x.com/ahsanadil01/status/2018901141598183805', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 7, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}, 'warnings': [{'platform': 'x', 'type': 'duplicate_or_similar', 'message': 'Your post appears duplicate or very similar to one you posted in the last 48 hours. Consider changing the title or caption to make it unique.'}]}
+2026-02-04 09:15:16,960 - INFO - Successfully posted 2026-02-04_ai_trending_post.md to social media
+2026-02-04 09:15:16,962 - INFO - Task completed at: 2026-02-04 09:15:16
+2026-02-04 09:15:16,962 - INFO - Task duration: 0:00:08.536547
+2026-02-04 09:15:16,962 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 09:18:39,390 - INFO - Daily AI Post Scheduler initialized
+2026-02-04 09:18:39,391 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 09:18:39,391 - INFO - Starting 24-hour AI post scheduler
+2026-02-04 09:18:39,392 - INFO - Scheduler will run every 24 hours
+2026-02-04 09:18:39,392 - INFO - Running initial task...
+2026-02-04 09:18:39,392 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-04 09:18:39,392 - INFO - Task started at: 2026-02-04 09:18:39
+2026-02-04 09:18:39,392 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-04 09:18:39,392 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-04 09:18:39,393 - INFO - Selected trending AI topic: Enterprise AI Adoption Strategies
+2026-02-04 09:18:39,395 - INFO - Successfully generated AI post: 2026-02-04_ai_trending_post.md
+2026-02-04 09:18:39,395 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-04_ai_trending_post.md
+2026-02-04 09:18:39,396 - INFO - Post file size: 2038 bytes
+2026-02-04 09:18:39,923 - INFO - Social Poster initialized
+2026-02-04 09:18:39,923 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_social - Copy (3)\Daily_AI_Posts
+2026-02-04 09:18:39,923 - INFO - Using image: mug.png
+2026-02-04 09:18:40,482 - INFO - Extracted title: Enterprise AI Adoption Strategies: Latest Developm...
+2026-02-04 09:18:40,482 - INFO - Extracted body: Enterprise AI Adoption Strategies represents one of the most significant trends in artificial intell...
+2026-02-04 09:18:45,115 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2018902014298669500', 'url': 'https://x.com/ahsanadil01/status/2018902014298669500', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 8, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}, 'warnings': [{'platform': 'x', 'type': 'duplicate_or_similar', 'message': 'Your post appears duplicate or very similar to one you posted in the last 48 hours. Consider changing the title or caption to make it unique.'}]}
+2026-02-04 09:18:45,119 - INFO - Successfully posted 2026-02-04_ai_trending_post.md to social media
+2026-02-04 09:18:45,121 - INFO - Task completed at: 2026-02-04 09:18:45
+2026-02-04 09:18:45,122 - INFO - Task duration: 0:00:05.729120
+2026-02-04 09:18:45,122 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-04 09:18:45,122 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-04 09:19:45,171 - INFO - Scheduler stopped by user
+2026-02-07 07:11:04,709 - INFO - Daily AI Post Scheduler initialized
+2026-02-07 07:11:04,710 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_streamlit\Daily_AI_Posts
+2026-02-07 07:11:04,711 - INFO - Starting 24-hour AI post scheduler
+2026-02-07 07:11:04,711 - INFO - Scheduler will run every 24 hours
+2026-02-07 07:11:04,712 - INFO - Running initial task...
+2026-02-07 07:11:04,712 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-07 07:11:04,712 - INFO - Task started at: 2026-02-07 07:11:04
+2026-02-07 07:11:04,713 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-07 07:11:04,713 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-07 07:11:04,713 - INFO - Selected trending AI topic: AI Ethics and Responsible Development
+2026-02-07 07:11:04,717 - INFO - Successfully generated AI post: 2026-02-07_ai_trending_post.md
+2026-02-07 07:11:04,717 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-07_ai_trending_post.md
+2026-02-07 07:11:04,718 - INFO - Post file size: 2070 bytes
+2026-02-07 07:11:05,597 - INFO - Social Poster initialized
+2026-02-07 07:11:05,597 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_streamlit\Daily_AI_Posts
+2026-02-07 07:11:05,598 - INFO - Using image: mug.png
+2026-02-07 07:11:05,689 - INFO - Extracted title: AI Ethics and Responsible Development: Latest Deve...
+2026-02-07 07:11:05,689 - INFO - Extracted body: AI Ethics and Responsible Development represents one of the most significant trends in artificial in...
+2026-02-07 07:11:10,654 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2019957076630401163', 'url': 'https://x.com/ahsanadil01/status/2019957076630401163', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 9, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}}
+2026-02-07 07:11:10,660 - INFO - Successfully posted 2026-02-07_ai_trending_post.md to social media
+2026-02-07 07:11:10,663 - INFO - Task completed at: 2026-02-07 07:11:10
+2026-02-07 07:11:10,663 - INFO - Task duration: 0:00:05.950190
+2026-02-07 07:11:10,663 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-07 07:11:10,664 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-07 07:21:45,464 - INFO - Scheduler stopped by user
+2026-02-07 15:48:42,600 - INFO - Daily AI Post Scheduler initialized
+2026-02-07 15:48:42,601 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_streamlit - Copy (2)\Daily_AI_Posts
+2026-02-07 15:48:42,601 - INFO - Starting 24-hour AI post scheduler
+2026-02-07 15:48:42,602 - INFO - Scheduler will run every 24 hours
+2026-02-07 15:48:42,602 - INFO - Running initial task...
+2026-02-07 15:48:42,602 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-07 15:48:42,604 - INFO - Task started at: 2026-02-07 15:48:42
+2026-02-07 15:48:42,605 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-07 15:48:42,605 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-07 15:48:42,606 - INFO - Selected trending AI topic: Multimodal AI Systems
+2026-02-07 15:48:42,608 - INFO - Successfully generated AI post: 2026-02-07_ai_trending_post.md
+2026-02-07 15:48:42,608 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-07_ai_trending_post.md
+2026-02-07 15:48:42,609 - INFO - Post file size: 1942 bytes
+2026-02-07 15:48:43,307 - INFO - Social Poster initialized
+2026-02-07 15:48:43,308 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_streamlit - Copy (2)\Daily_AI_Posts
+2026-02-07 15:48:43,308 - INFO - Using image: mug.png
+2026-02-07 15:48:43,690 - INFO - Extracted title: Multimodal AI Systems: Latest Developments and Ind...
+2026-02-07 15:48:43,690 - INFO - Extracted body: Multimodal AI Systems represents one of the most significant trends in artificial intelligence today...
+2026-02-07 15:48:48,166 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2020087342237680065', 'url': 'https://x.com/ahsanadil01/status/2020087342237680065', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 10, 'limit': 10, 'last_reset': '2026-02-02T23:55:23.479814'}, 'warnings': [{'platform': 'x', 'type': 'duplicate_or_similar', 'message': 'Your post appears duplicate or very similar to one you posted in the last 48 hours. Consider changing the title or caption to make it unique.'}]}
+2026-02-07 15:48:48,175 - INFO - Successfully posted 2026-02-07_ai_trending_post.md to social media
+2026-02-07 15:48:48,178 - INFO - Task completed at: 2026-02-07 15:48:48
+2026-02-07 15:48:48,179 - INFO - Task duration: 0:00:05.574742
+2026-02-07 15:48:48,179 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-07 15:48:48,179 - INFO - Scheduler started successfully. Waiting for next scheduled run...
+2026-02-07 15:50:28,686 - INFO - Scheduler stopped by user
+2026-02-08 17:05:29,596 - INFO - Daily AI Post Scheduler initialized
+2026-02-08 17:05:29,597 - INFO - Posts will be saved to: C:\Users\AHSEN\Desktop\hackathon_0_complete\Daily_AI_Posts
+2026-02-08 17:05:29,600 - INFO - Starting 24-hour AI post scheduler
+2026-02-08 17:05:29,600 - INFO - Scheduler will run every 24 hours
+2026-02-08 17:05:29,601 - INFO - Running initial task...
+2026-02-08 17:05:29,601 - INFO - Scheduled task triggered - Starting daily AI post generation
+2026-02-08 17:05:29,601 - INFO - Task started at: 2026-02-08 17:05:29
+2026-02-08 17:05:29,602 - INFO - Logically handing over control to Claude Code (ccr code) for AI post generation
+2026-02-08 17:05:29,602 - INFO - Simulating Claude Code handoff: ccr code - search trending AI topics and generate post
+2026-02-08 17:05:29,602 - INFO - Selected trending AI topic: AI Safety and Alignment Research
+2026-02-08 17:05:29,609 - INFO - Successfully generated AI post: 2026-02-08_ai_trending_post.md
+2026-02-08 17:05:29,609 - INFO - Post file created successfully: Daily_AI_Posts\2026-02-08_ai_trending_post.md
+2026-02-08 17:05:29,610 - INFO - Post file size: 2030 bytes
+2026-02-08 17:05:32,296 - INFO - Social Poster initialized
+2026-02-08 17:05:32,298 - INFO - Monitoring directory: C:\Users\AHSEN\Desktop\hackathon_0_complete\Daily_AI_Posts
+2026-02-08 17:05:32,299 - INFO - Using image: ai.png
+2026-02-08 17:05:32,423 - INFO - Extracted title: AI Safety and Alignment Research: Latest Developme...
+2026-02-08 17:05:32,424 - INFO - Extracted body: AI Safety and Alignment Research represents one of the most significant trends in artificial intelli...
+2026-02-08 17:05:53,808 - INFO - Upload successful: {'success': True, 'results': {'x': {'success': True, 'post_id': '2020469062661181746', 'url': 'https://x.com/ahsanadil01/status/2020469062661181746', 'photos_were_processed': None, 'changes_per_image': [[]]}, 'instagram': {'success': True, 'post_id': '18104202718885361', 'url': 'https://www.instagram.com/p/DUfw0rTjLuX/', 'media_type': 'IMAGE', 'photos_were_processed': None, 'changes_per_image': [[]]}, 'linkedin': {'success': True, 'image_urns': ['urn:li:image:D4D10AQHohRHkNo-zsg'], 'post_id': 'urn:li:share:7426234755983073280', 'url': 'https://www.linkedin.com/feed/update/urn:li:share:7426234755983073280/', 'photos_were_processed': None, 'changes_per_image': [[]]}}, 'usage': {'count': 3, 'limit': 10, 'last_reset': '2026-02-08T04:12:48.726969'}}
+2026-02-08 17:05:53,815 - INFO - Successfully posted 2026-02-08_ai_trending_post.md to social media
+2026-02-08 17:05:53,817 - INFO - Task completed at: 2026-02-08 17:05:53
+2026-02-08 17:05:53,817 - INFO - Task duration: 0:00:24.215615
+2026-02-08 17:05:53,818 - INFO - [SUCCESS] Daily AI post generation completed successfully
+2026-02-08 17:05:53,818 - INFO - Scheduler started successfully. Waiting for next scheduled run...

@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(where claude)",
+      "Bash(ccr code --help:*)",
+      "Bash(python \"C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\\\\watcher.py\")",
+      "Bash(dir \"C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\\\\Needs_Action\")",
+      "Bash(ccr code \"@task-processor\" \"process this file: C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\\\\Needs_Action\\\\test2.md\" --cwd \"C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\")",
+      "Bash(ccr code \"@task-processor\" \"process this file: C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\\\\Needs_Action\\\\test2.md\")",
+      "Bash(ccr code -p \"@task-processor process this file: C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\\\\Needs_Action\\\\test2.md\")",
+      "Bash(python \"C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\\\\task_processor.py\" \"C:\\\\Users\\\\AHSEN\\\\Desktop\\\\hackathon_0\\\\AI_Employee_Vault\\\\Needs_Action\\\\test3.md\")",
+      "Bash(python test_gmail_setup.py)",
+      "Bash(pip install markdown)",
+      "Bash(timeout 30s python gmail_watcher.py)",
+      "Bash(dir \"C:\\\\Users\\\\AHSEN\\\\.claude\\\\skills\")",
+      "Bash(pip install -r scheduler_requirements.txt)",
+      "Bash(python test_scheduler.py)"
+    ]
+  }
+}
