@@ -1,4 +1,4 @@
-# Social Media Automation Dashboard
+# Social Media AI Employee
 
 A comprehensive social media automation platform built with NiceGUI that enables users to manage email campaigns, WhatsApp messaging, and AI-powered social media content generation through an intuitive web interface.
 
