@@ -1,0 +1,1 @@
+Please run the ceo-briefing skill and write a new system status report.
