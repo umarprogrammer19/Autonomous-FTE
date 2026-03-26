@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "odoo": {
+      "command": "uvx",
+      "args": [
+        "--from",
+        ".",
+        "odoo-mcp"
+      ],
+      "cwd": "D:\\Autonomous FTE\\mcp-odoo-adv"
+    }
+  },
+  "$version": 3
+}
