@@ -3,7 +3,7 @@ import time
 import shutil
 import subprocess
 
-# Define our folders
+# folders
 NEEDS_ACTION_DIR = "AI_Employee_Vault/Needs_Action"
 DONE_DIR = "AI_Employee_Vault/Done"
 
