@@ -1,14 +1,14 @@
-\---
+---
 
 name: ceo-briefing
 
 description: Use this skill when the user asks for a business update, financial summary, or the Monday Morning CEO Briefing.
 
-\---
+---
 
 
 
-\# Monday Morning CEO Briefing
+# Monday Morning CEO Briefing
 
 
 

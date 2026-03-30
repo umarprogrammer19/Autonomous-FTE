@@ -1,10 +1,10 @@
-\---
+---
 
 name: email-triage
 
 description: Process new incoming emails from the /Needs\_Action folder. Determine if the sender exists in Odoo, and if a business action like creating a Lead or logging a note is required.
 
-\---
+---
 
 
 
