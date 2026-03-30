@@ -1,0 +1,1 @@
+Please delete the partner named 'Autonomous FTE' in Odoo. If there are multiple, just pick one.
