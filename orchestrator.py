@@ -3,7 +3,7 @@ import time
 import shutil
 import subprocess
 
-# Define our exact folder paths based on your workspace
+# Define our exact folder paths based on my workspace
 VAULT = "AI_Employee_Vault"
 NEEDS_ACTION_DIR = os.path.join(VAULT, "Needs_Action")
 APPROVED_DIR = os.path.join(VAULT, "Approved")
