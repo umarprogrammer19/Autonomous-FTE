@@ -4,7 +4,7 @@ import shutil
 from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
-# Define our folders
+# Define folders
 DROP_ZONE = "AI_Employee_Vault/Drop_Zone"
 NEEDS_ACTION = "AI_Employee_Vault/Needs_Action"
 
