@@ -36,7 +36,7 @@ logs/
 # Claude Code private files
 .claude/
 CLAUDE.md
-# Odoo specific
+# For Odoo 
 odoo_config.json
 
 # System files
