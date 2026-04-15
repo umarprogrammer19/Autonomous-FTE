@@ -7,6 +7,13 @@ import os
 import json
 from typing import Dict, Optional
 
+# Resolve script path relative to this service file's grandparent (src/)
+_SERVICE_DIR = os.path.dirname(os.path.abspath(__file__))
+_SRC_DIR = os.path.dirname(_SERVICE_DIR)
+_PROJECT_ROOT = os.path.dirname(_SRC_DIR)
+_SCHEDULER_SCRIPT = os.path.join(_SRC_DIR, "daily_ai_scheduler.py")
+_DATA_DIR = os.path.join(_PROJECT_ROOT, "data")
+
 class AIPostService:
     """Service class to handle AI post generation and scheduling"""
 
@@ -20,7 +27,7 @@ class AIPostService:
         """
         try:
             # Call the daily_ai_scheduler with --test flag to run once
-            cmd = [sys.executable, "daily_ai_scheduler.py", "--test"]
+            cmd = [sys.executable, _SCHEDULER_SCRIPT, "--test"]
 
             # Run the scheduler for one iteration only
             result = subprocess.run(
@@ -56,8 +63,9 @@ class AIPostService:
             Dict: Post information or None if not available
         """
         try:
-            if os.path.exists('data/latest_post.json'):
-                with open('data/latest_post.json', 'r') as f:
+            post_file = os.path.join(_DATA_DIR, 'latest_post.json')
+            if os.path.exists(post_file):
+                with open(post_file, 'r') as f:
                     return json.load(f)
             return None
         except Exception as e:
@@ -72,7 +80,7 @@ class AIPostService:
         """
         try:
             # Remove any existing lock file to ensure clean start
-            lock_file = 'data/scheduler.lock'
+            lock_file = os.path.join(_DATA_DIR, 'scheduler.lock')
             if os.path.exists(lock_file):
                 os.remove(lock_file)
 
@@ -81,7 +89,7 @@ class AIPostService:
             # The actual scheduler runs continuously, but we need to respect Streamlit's session state
             # Since the scheduler runs forever, we'll just start it and let it run
             # The lock file mechanism will prevent multiple instances
-            cmd = [sys.executable, "daily_ai_scheduler.py"]
+            cmd = [sys.executable, _SCHEDULER_SCRIPT]
 
             # Run the scheduler - it handles its own timing
             result = subprocess.run(
@@ -102,7 +110,7 @@ class AIPostService:
             traceback.print_exc()
         finally:
             # Clean up lock file when scheduler stops
-            lock_file = 'data/scheduler.lock'
+            lock_file = os.path.join(_DATA_DIR, 'scheduler.lock')
             if os.path.exists(lock_file):
                 os.remove(lock_file)
 

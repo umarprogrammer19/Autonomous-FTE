@@ -1,7 +1,11 @@
 import subprocess
 import sys
 import os
-from typing import Optional
+
+# Resolve script path relative to this service file's grandparent (src/)
+_SERVICE_DIR = os.path.dirname(os.path.abspath(__file__))
+_SRC_DIR = os.path.dirname(_SERVICE_DIR)
+_WHATSAPP_SCRIPT = os.path.join(_SRC_DIR, "whatsapp_sender.py")
 
 class WhatsAppService:
     """Service class to handle WhatsApp operations"""
@@ -23,7 +27,7 @@ class WhatsAppService:
             # The script expects: phone_number, message
             cmd = [
                 sys.executable,
-                "whatsapp_sender.py",
+                _WHATSAPP_SCRIPT,
                 phone_number,
                 message
             ]

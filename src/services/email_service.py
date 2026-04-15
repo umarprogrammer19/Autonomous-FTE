@@ -1,7 +1,11 @@
 import subprocess
 import sys
 import os
-from typing import Optional
+
+# Resolve script path relative to this service file's grandparent (src/)
+_SERVICE_DIR = os.path.dirname(os.path.abspath(__file__))
+_SRC_DIR = os.path.dirname(_SERVICE_DIR)
+_EMAIL_SCRIPT = os.path.join(_SRC_DIR, "email_mcp_server.py")
 
 class EmailService:
     """Service class to handle email operations"""
@@ -24,7 +28,7 @@ class EmailService:
             # The script expects: recipient_email, subject, message
             cmd = [
                 sys.executable,  # Use the same Python interpreter
-                "email_mcp_server.py",
+                _EMAIL_SCRIPT,
                 recipient_email,
                 subject,
                 message
