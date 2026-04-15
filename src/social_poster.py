@@ -104,8 +104,8 @@ class SocialPoster:
             response = client.upload_photos(
                 photos=[str(self.image_path)],
                 title=title,
-                user="ahsen",
-                platforms=["x", "instagram", "linkedin"],
+                user="Umar",
+                platforms=["linkedin"],
                 caption=caption,
                 visibility="PUBLIC",
                 media_type="IMAGE",

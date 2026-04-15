@@ -54,10 +54,21 @@ class WhatsAppSender:
             return self.contacts[name_lower]
         return None
 
+    def sanitize_phone(self, phone_number):
+        """Sanitize phone number to match whapi.cloud format requirements"""
+        # Remove all non-digit characters except dashes
+        cleaned = ''.join(c for c in str(phone_number) if c.isdigit() or c == '-')
+        # Remove leading + if it was somehow kept
+        cleaned = cleaned.lstrip('+')
+        return cleaned
+
     def send_whatsapp_message(self, phone_number, message):
         """Send a WhatsApp message using whapi.cloud API"""
         try:
             url = f"{self.api_url_base}/messages/text"
+
+            # Sanitize phone number before sending
+            phone_number = self.sanitize_phone(phone_number)
 
             payload = {
                 "typing_time": 0,
