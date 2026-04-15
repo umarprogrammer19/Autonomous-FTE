@@ -17,7 +17,7 @@ Access the dashboard at `http://localhost:8080`.
 ### Setup and Dependencies
 ```bash
 # Install dependencies
-pip install -r requirements.txt
+uv sync
 
 # Setup (creates .env from .env.example if missing)
 python setup.py
