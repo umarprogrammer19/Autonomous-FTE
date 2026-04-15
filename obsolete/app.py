@@ -5,9 +5,9 @@ from datetime import datetime
 import subprocess
 import threading
 import asyncio
-from services.email_service import EmailService
-from services.whatsapp_service import WhatsAppService
-from services.ai_post_service import AIPostService
+from src.services.email_service import EmailService
+from src.services.whatsapp_service import WhatsAppService
+from src.services.ai_post_service import AIPostService
 
 # Global state variables
 class AppState:

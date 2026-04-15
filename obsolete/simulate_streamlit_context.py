@@ -5,7 +5,7 @@ import subprocess
 import sys
 import threading
 import time
-from services.ai_post_service import AIPostService
+from src.services.ai_post_service import AIPostService
 
 def simulate_ui_call():
     """Simulate calling the AI post service as Streamlit would"""
