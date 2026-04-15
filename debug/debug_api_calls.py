@@ -4,7 +4,7 @@ Debug script to test the actual API calls to whapi.cloud
 import os
 import requests
 import json
-from whatsapp_automation import WhatsAppAutomation
+from src.whatsapp_automation import WhatsAppAutomation
 
 def debug_api_calls():
     """Debug the actual API calls being made"""

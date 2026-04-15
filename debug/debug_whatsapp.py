@@ -3,9 +3,8 @@ Debug script to test WhatsApp automation functionality
 """
 
 import os
-import json
 from unittest.mock import patch, MagicMock
-from whatsapp_automation import WhatsAppAutomation
+from src.whatsapp_automation import WhatsAppAutomation
 
 def test_message_processing():
     """Test the message processing pipeline"""

@@ -1,4 +1,4 @@
-from services.ai_post_service import AIPostService
+from src.services.ai_post_service import AIPostService
 
 print("Testing AIPostService directly...")
 

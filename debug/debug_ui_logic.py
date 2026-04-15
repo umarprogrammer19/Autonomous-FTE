@@ -4,7 +4,7 @@ import os
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from datetime import datetime
-from services.ai_post_service import AIPostService
+from src.services.ai_post_service import AIPostService
 
 def test_manual_button_logic():
     """Simulate the exact logic used in the manual button"""

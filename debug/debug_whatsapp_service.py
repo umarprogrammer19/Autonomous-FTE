@@ -1,9 +1,9 @@
-from services.whatsapp_service import WhatsAppService
+from src.services.whatsapp_service import WhatsAppService
 
 print("Testing WhatsAppService directly...")
 
 result = WhatsAppService.send_message(
-    "923182710120",
+    "923075799968",
     "Test message from service layer"
 )
 

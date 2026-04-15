@@ -1,4 +1,4 @@
-from services.email_service import EmailService
+from src.services.email_service import EmailService
 
 print("Testing EmailService directly...")
 

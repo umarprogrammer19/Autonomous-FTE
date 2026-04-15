@@ -1,7 +1,6 @@
 import subprocess
 import sys
 import os
-import tempfile
 import logging
 
 # Enable logging to see what's happening
