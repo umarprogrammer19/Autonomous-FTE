@@ -13,4 +13,5 @@ dependencies = [
     "markdown>=3.3.0",
     "schedule>=1.2.0",
     "streamlit",
+    "upload-post>=2.1.1",
 ]

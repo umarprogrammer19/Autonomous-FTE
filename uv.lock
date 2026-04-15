@@ -1146,6 +1146,7 @@ dependencies = [
     { name = "requests" },
     { name = "schedule" },
     { name = "streamlit" },
+    { name = "upload-post" },
 ]
 
 [package.metadata]
@@ -1158,6 +1159,7 @@ requires-dist = [
     { name = "requests", specifier = ">=2.33.1" },
     { name = "schedule", specifier = ">=1.2.0" },
     { name = "streamlit" },
+    { name = "upload-post", specifier = ">=2.1.1" },
 ]
 
 [[package]]
@@ -1273,6 +1275,18 @@ source = { registry = "https://pypi.org/simple" }
 sdist = { url = "https://files.pythonhosted.org/packages/19/f5/cd531b2d15a671a40c0f66cf06bc3570a12cd56eef98960068ebbad1bf5a/tzdata-2026.1.tar.gz", hash = "sha256:67658a1903c75917309e753fdc349ac0efd8c27db7a0cb406a25be4840f87f98", size = 197639 }
 wheels = [
     { url = "https://files.pythonhosted.org/packages/b0/70/d460bd685a170790ec89317e9bd33047988e4bce507b831f5db771e142de/tzdata-2026.1-py2.py3-none-any.whl", hash = "sha256:4b1d2be7ac37ceafd7327b961aa3a54e467efbdb563a23655fbfe0d39cfc42a9", size = 348952 },
+]
+
+[[package]]
+name = "upload-post"
+version = "2.1.1"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "requests" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/4c/78/d8b99ae41a843c05089e8b0a7df745cbd6b4cee06061b6d73e409ea31859/upload_post-2.1.1.tar.gz", hash = "sha256:1542565cadff6aaf5d0f14ec8ba2246cbdd503355f574e8da2d271daa70aa440", size = 19441 }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/65/35/3546e017ba024e0a98fd4af1d5758d7b5cbedeef6a3a17859f42bd4b8bb4/upload_post-2.1.1-py3-none-any.whl", hash = "sha256:4ae279564d4d674667bc91d51520c9987fe8d20cbe664d591d327f8e0a8129b5", size = 16528 },
 ]
 
 [[package]]

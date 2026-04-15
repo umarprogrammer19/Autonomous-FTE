@@ -7,20 +7,14 @@ import os
 import time
 import logging
 from pathlib import Path
-from datetime import datetime
-import re
-import markdown
-from bs4 import BeautifulSoup
-
+from dotenv import load_dotenv
+load_dotenv()
 
 # Configure logging
 logging.basicConfig(
     level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    handlers=[
-        logging.FileHandler('social_poster.log'),
-        logging.StreamHandler()
-    ]
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    handlers=[logging.FileHandler("social_poster.log"), logging.StreamHandler()],
 )
 logger = logging.getLogger(__name__)
 
@@ -42,22 +36,22 @@ class SocialPoster:
         Extract title and body from a markdown file
         """
         try:
-            with open(markdown_file_path, 'r', encoding='utf-8') as f:
+            with open(markdown_file_path, "r", encoding="utf-8") as f:
                 content = f.read()
 
             # Extract title (first H1 header)
-            lines = content.split('\n')
+            lines = content.split("\n")
             title = ""
             for line in lines:
-                if line.strip().startswith('# ') or line.strip().startswith('## '):
-                    title = line.strip('# ').strip()
+                if line.strip().startswith("# ") or line.strip().startswith("## "):
+                    title = line.strip("# ").strip()
                     break
 
             if not title:
                 # If no H1 found, use first non-empty line as title
                 for line in lines:
                     stripped_line = line.strip()
-                    if stripped_line and not stripped_line.startswith('#'):
+                    if stripped_line and not stripped_line.startswith("#"):
                         title = stripped_line[:100]  # Limit to 100 chars
                         break
 
@@ -66,15 +60,19 @@ class SocialPoster:
             skip_line = False
             for line in lines:
                 stripped = line.strip()
-                if stripped.startswith('#'):  # Skip headers
+                if stripped.startswith("#"):  # Skip headers
                     continue
-                if stripped.startswith('- ') or stripped.startswith('* '):  # Keep lists
+                if stripped.startswith("- ") or stripped.startswith("* "):  # Keep lists
                     body_lines.append(stripped)
-                elif stripped and not stripped.startswith('---') and not stripped.startswith('*Published on'):
+                elif (
+                    stripped
+                    and not stripped.startswith("---")
+                    and not stripped.startswith("*Published on")
+                ):
                     body_lines.append(stripped)
 
             # Join body lines and clean up
-            body = ' '.join(body_lines).strip()
+            body = " ".join(body_lines).strip()
 
             # Limit body length for social media
             if len(body) > 1000:  # Truncate if too long
@@ -86,7 +84,9 @@ class SocialPoster:
             return title, body
 
         except Exception as e:
-            logger.error(f"Error extracting content from {markdown_file_path}: {str(e)}")
+            logger.error(
+                f"Error extracting content from {markdown_file_path}: {str(e)}"
+            )
             return "", ""
 
     def post_to_social_media(self, title, caption):
@@ -98,7 +98,7 @@ class SocialPoster:
             from upload_post import UploadPostClient
 
             # Initialize the client with the API key
-            client = UploadPostClient(api_key="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImdvbW9wYWJvQGRlbmlwbC5jb20iLCJleHAiOjQ5MjQxNDg1ODIsImp0aSI6Ijc0ZTZlZDhiLTNlOTItNGNmYy04NjdjLTVhNTIzZWI2MmI3NiJ9.T2GNesPF54h3b6DegPNZ5vt3F_hklGtXeBAxekw4Gpk")
+            client = UploadPostClient(api_key=os.getenv("UPLOAD_POST_API_KEY"))
 
             # Prepare the post
             response = client.upload_photos(
@@ -108,14 +108,16 @@ class SocialPoster:
                 platforms=["x", "instagram", "linkedin"],
                 caption=caption,
                 visibility="PUBLIC",
-                media_type="IMAGE"
+                media_type="IMAGE",
             )
 
             logger.info(f"Upload successful: {response}")
             return True, response
 
         except ImportError:
-            logger.error("upload_post module not found. Please install the required package.")
+            logger.error(
+                "upload_post module not found. Please install the required package."
+            )
             return False, "upload_post module not found"
         except Exception as e:
             logger.error(f"Error posting to social media: {str(e)}")
@@ -138,7 +140,7 @@ class SocialPoster:
 
         # Check if this file has already been processed
         # We can use a simple approach: check if there's a corresponding .posted file
-        posted_marker = latest_file.with_suffix('.posted')
+        posted_marker = latest_file.with_suffix(".posted")
 
         if posted_marker.exists():
             logger.info(f"File {latest_file.name} already posted, skipping...")
@@ -148,7 +150,9 @@ class SocialPoster:
         title, caption = self.extract_title_and_body(latest_file)
 
         if not title or not caption:
-            logger.warning(f"Could not extract title/caption from {latest_file.name}, skipping...")
+            logger.warning(
+                f"Could not extract title/caption from {latest_file.name}, skipping..."
+            )
             return
 
         # Post to social media
@@ -159,7 +163,9 @@ class SocialPoster:
             posted_marker.touch()
             logger.info(f"Successfully posted {latest_file.name} to social media")
         else:
-            logger.error(f"Failed to post {latest_file.name} to social media: {response}")
+            logger.error(
+                f"Failed to post {latest_file.name} to social media: {response}"
+            )
 
     def start_monitoring(self, check_interval=60):
         """
