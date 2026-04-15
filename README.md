@@ -21,19 +21,27 @@ This project is a social media automation dashboard that combines multiple commu
 
 ### Folder Structure
 ```
-├── app_nicegui_enhanced.py          # Main application file with UI components
-├── services/
-│   ├── email_service.py             # Email sending functionality
-│   ├── whatsapp_service.py          # WhatsApp messaging functionality
-│   └── ai_post_service.py           # AI post generation and scheduling
-├── daily_ai_scheduler.py            # Background scheduler for AI posts
-├── social_poster.py                 # Social media posting functionality
-├── analytics_tracker.py             # Analytics and metrics tracking
-├── data/                            # Runtime data storage (contacts, posts, analytics)
-├── logs/                            # Application logs
-├── requirements.txt                 # Python dependencies
-├── .env.example                     # Environment variable template
-└── README.md                        # Project documentation
+├── src/                            # Core application code
+│   ├── app_nicegui_enhanced.py     # Main application file with UI components
+│   ├── services/
+│   │   ├── email_service.py        # Email sending service
+│   │   ├── whatsapp_service.py     # WhatsApp messaging service
+│   │   └── ai_post_service.py      # AI post generation service
+│   ├── daily_ai_scheduler.py       # Background scheduler for AI posts
+│   ├── social_poster.py            # Social media posting
+│   ├── analytics_tracker.py        # Analytics and metrics tracking
+│   └── ... (other core scripts)
+├── tests/                          # Test files
+├── debug/                          # One-off debug scripts
+├── scripts/                        # Utility and runner scripts
+├── obsolete/                       # Superseded files (safe to delete)
+├── data/                           # Runtime data storage (contacts, posts, analytics)
+├── logs/                           # Application logs
+├── AI_Employee_Vault/              # AI task workflow
+├── Daily_AI_Posts/                 # Generated AI posts
+├── requirements.txt                # Python dependencies
+├── .env.example                    # Environment variable template
+└── README.md                       # Project documentation
 ```
 
 ### Key Components
@@ -105,7 +113,7 @@ This project is a social media automation dashboard that combines multiple commu
 
 1. **Start the application**
    ```bash
-   python app_nicegui_enhanced.py
+   python src/app_nicegui_enhanced.py
    ```
 
 2. **Access the dashboard**

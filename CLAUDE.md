@@ -10,7 +10,7 @@ This is a **Social Media AI Employee** - a comprehensive social media automation
 
 ### Run the Application
 ```bash
-python app_nicegui_enhanced.py
+python src/app_nicegui_enhanced.py
 ```
 Access the dashboard at `http://localhost:8080`.
 
@@ -26,24 +26,24 @@ python setup.py
 ### Run Schedulers
 ```bash
 # Daily AI post scheduler (runs every 24 hours)
-python daily_ai_scheduler.py
+python src/daily_ai_scheduler.py
 
 # Run once (test mode)
-python daily_ai_scheduler.py --test
+python src/daily_ai_scheduler.py --test
 
 # Combined scheduler (email + WhatsApp)
-python combined_scheduler.py
+python src/combined_scheduler.py
 
 # Social poster (monitors and posts content)
-python social_poster.py
+python src/social_poster.py
 ```
 
 ### Run Tests
 ```bash
-python test_functionality.py
-python test_whatsapp_automation.py
-python test_scheduler.py
-python test_sender.py
+python tests/test_functionality.py
+python tests/test_whatsapp_automation.py
+python tests/test_scheduler.py
+python tests/test_sender.py
 ```
 
 ### AI Employee Vault Operations
@@ -64,10 +64,10 @@ python whatsapp_watcher.py
 ### Send Messages (CLI)
 ```bash
 # Send WhatsApp message
-python whatsapp_sender.py "PHONE_NUMBER" "MESSAGE"
+python src/whatsapp_sender.py "PHONE_NUMBER" "MESSAGE"
 
 # Send email
-python email_mcp_server.py "recipient@email.com" "Subject" "Message body"
+python src/email_mcp_server.py "recipient@email.com" "Subject" "Message body"
 ```
 
 ## Architecture

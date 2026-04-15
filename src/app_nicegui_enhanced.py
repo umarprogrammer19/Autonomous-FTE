@@ -1,9 +1,19 @@
-from nicegui import ui
+import sys
 import os
+
+# Ensure project root and src/ are in sys.path so services/ and analytics_tracker can be found
+# when running `python src/app_nicegui_enhanced.py` from the project root
+SRC_DIR = os.path.dirname(os.path.abspath(__file__))
+PROJECT_ROOT = os.path.dirname(SRC_DIR)
+if SRC_DIR not in sys.path:
+    sys.path.insert(0, SRC_DIR)
+if PROJECT_ROOT not in sys.path:
+    sys.path.insert(0, PROJECT_ROOT)
+
+from nicegui import ui
 import json
 from datetime import datetime
 import subprocess
-import sys
 import threading
 import asyncio
 from services.email_service import EmailService
