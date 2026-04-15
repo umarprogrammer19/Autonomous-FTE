@@ -4,9 +4,9 @@ Test script for the combined scheduler and social poster functionality
 
 import os
 from pathlib import Path
-from combined_scheduler import CombinedScheduler
-from daily_ai_scheduler import DailyAIPostScheduler
-from social_poster import SocialPoster
+from src.combined_scheduler import CombinedScheduler
+from src.daily_ai_scheduler import DailyAIPostScheduler
+from src.social_poster import SocialPoster
 
 
 def test_combined_functionality():

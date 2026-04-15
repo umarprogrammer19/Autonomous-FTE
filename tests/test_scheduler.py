@@ -4,7 +4,7 @@ Test script for the Daily AI Post Scheduler
 
 import os
 from pathlib import Path
-from daily_ai_scheduler import DailyAIPostScheduler
+from src.daily_ai_scheduler import DailyAIPostScheduler
 
 
 def test_scheduler():

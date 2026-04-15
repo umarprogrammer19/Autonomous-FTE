@@ -105,7 +105,7 @@ def test_services_integration():
 
     try:
         # Test email service
-        from services.email_service import EmailService
+        from src.services.email_service import EmailService
         email_result = EmailService.send_email(
             "test@example.com",
             "Test from Service Layer",
@@ -114,7 +114,7 @@ def test_services_integration():
         print(f"Email service result: {email_result}")
 
         # Test WhatsApp service
-        from services.whatsapp_service import WhatsAppService
+        from src.services.whatsapp_service import WhatsAppService
         whatsapp_result = WhatsAppService.send_message(
             "923182710120",
             "Test from Service Layer"
@@ -122,7 +122,7 @@ def test_services_integration():
         print(f"WhatsApp service result: {whatsapp_result}")
 
         # Test AI post service
-        from services.ai_post_service import AIPostService
+        from src.services.ai_post_service import AIPostService
         ai_result = AIPostService.generate_and_post_now()
         print(f"AI post service result: {ai_result}")
 

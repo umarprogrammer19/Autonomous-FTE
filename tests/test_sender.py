@@ -2,7 +2,7 @@
 Test script for WhatsApp Sender functionality
 """
 
-from whatsapp_sender_demo import WhatsAppSender
+from obsolete.whatsapp_sender_demo import WhatsAppSender
 
 def test_sender():
     """Test the WhatsApp sender functionality"""

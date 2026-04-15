@@ -4,7 +4,7 @@ This confirms all required functionality is working end-to-end
 """
 
 import os
-from whatsapp_automation import WhatsAppAutomation
+from src.whatsapp_automation import WhatsAppAutomation
 
 def verify_system():
     """Verify that all system components are working"""

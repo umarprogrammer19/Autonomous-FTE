@@ -7,7 +7,7 @@ def test_email_service():
     """Test the email service"""
     print("Testing email service...")
 
-    from services.email_service import EmailService
+    from src.services.email_service import EmailService
     result = EmailService.send_email(
         "test@example.com",
         "Test Subject from Service",
@@ -20,7 +20,7 @@ def test_whatsapp_service():
     """Test the WhatsApp service"""
     print("Testing WhatsApp service...")
 
-    from services.whatsapp_service import WhatsAppService
+    from src.services.whatsapp_service import WhatsAppService
     result = WhatsAppService.send_message(
         "923182710120",
         "Test message from service layer"
@@ -32,7 +32,7 @@ def test_ai_post_service():
     """Test the AI post service"""
     print("Testing AI post service...")
 
-    from services.ai_post_service import AIPostService
+    from src.services.ai_post_service import AIPostService
     result = AIPostService.generate_and_post_now()
     print(f"AI post service result: {result}")
     return result
