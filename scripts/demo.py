@@ -4,8 +4,7 @@ Shows how to use the various features
 """
 
 import os
-from whatsapp_automation import WhatsAppAutomation, manual_send_message
-from utils import load_env
+from src.whatsapp_automation import WhatsAppAutomation, manual_send_message
 
 
 def demo_keyword_detection():
