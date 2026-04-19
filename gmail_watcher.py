@@ -87,7 +87,7 @@ def watch_gmail():
                     print(f"✅ Created task file: {filename} in /Needs_Action")
                     processed_ids.add(msg_id)
 
-            # Rest for 30 seconds before checking again
+            # Rest 30 seconds before checking again
             time.sleep(30)
 
         except Exception as e:
