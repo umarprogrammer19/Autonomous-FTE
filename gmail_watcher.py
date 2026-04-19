@@ -6,7 +6,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 
-# If modifying these scopes, delete the file token.json.
+# If you modify these scopes, make sure delete the file token.json.
 SCOPES = ["https://www.googleapis.com/auth/gmail.readonly"]
 NEEDS_ACTION_DIR = os.path.join("AI_Employee_Vault", "Needs_Action")
 
